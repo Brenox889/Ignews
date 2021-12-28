@@ -2,7 +2,7 @@
 
 <p align='center'>Your newslatter about the React World</p>
 
-<img align='center' src='./.github/ignews' />
+<img align='center' src='./.github/ignews.png' />
 
 
 ---
@@ -10,7 +10,7 @@
 ## :robot: Technologies used
 
 - :computer: ReactJS - Typescript - NextJs
-- :art: scss
+- :art: SCSS
 - :books: axios - stripe 
 
 <br />
